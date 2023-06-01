@@ -6,10 +6,16 @@ Python developer and Unity developer
 
 Hi. I am a Python developer with 3 years of commercial experience. I have worked on many projects described in my resume (or linkedin). I also create games on Unity.
 
-*   🌍  I'm based in Belarus
-*   ✉️  You can contact me at [ZavadskyAndrey2002@yandex.by](mailto:ZavadskyAndrey2002@yandex.by)
-*   🧠  I'm learning SkillBox - Profession Unity game developer from scratch to Middle<a href="https://www.github.com/Caxaro4ekPixel" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Caxaro4ekPixel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Belarus
+* ✉️  You can contact me at [ZavadskyAndrey2002@yandex.by](mailto:ZavadskyAndrey2002@yandex.by)
+* 🧠  I'm learning SkillBox - Profession Unity game developer from scratch to Middle
+
+<a href="https://www.github.com/Caxaro4ekPixel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Caxaro4ekPixel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -28,17 +34,26 @@ Hi. I am a Python developer with 3 years of commercial experience. I have worked
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/Caxaro4ek#0440" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Caxaro4ekPixel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/andrey-zavadsky/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Caxaro4ekPixel"><img src="https://github-readme-stats.vercel.app/api?username=Caxaro4ekPixel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Caxaro4ekPixel's GitHub stats" /></a><a
-                      href="http://www.github.com/Caxaro4ekPixel"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Caxaro4ekPixel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Caxaro4ekPixel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caxaro4ekPixel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Caxaro4ekPixel/AL_Asuna_Bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=AL_Asuna_Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Caxaro4ekPixel/SphearAdvencher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=SphearAdvencher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/Caxaro4ekPixel/ChatGPTBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=ChatGPTBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Caxaro4ekPixel/MyProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=MyProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Caxaro4ek#0440" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Caxaro4ekPixel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrey-zavadsky/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Caxaro4ekPixel"><img src="https://github-readme-stats.vercel.app/api?username=Caxaro4ekPixel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Caxaro4ekPixel's GitHub stats" /></a>
+
+<a href="http://www.github.com/Caxaro4ekPixel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Caxaro4ekPixel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Caxaro4ekPixel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caxaro4ekPixel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Caxaro4ekPixel/AL_Asuna_Bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=AL_Asuna_Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Caxaro4ekPixel/SphearAdvencher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=SphearAdvencher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Caxaro4ekPixel/ChatGPTBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=ChatGPTBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Caxaro4ekPixel/MyProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=MyProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
