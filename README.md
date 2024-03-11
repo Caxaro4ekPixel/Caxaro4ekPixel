@@ -50,6 +50,8 @@ src="https://img.shields.io/github/followers/Caxaro4ekPixel?logo=github&style=fo
 
 <a href="https://github.com/Caxaro4ekPixel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caxaro4ekPixel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<figure><embed src="https://wakatime.com/share/@3936617b-6767-455c-93e3-d0e83d1ff983/596f7830-f21c-4dbf-8d81-a9c93c077c18.svg"></embed></figure>
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Caxaro4ekPixel/AL_Asuna_Bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=AL_Asuna_Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Caxaro4ekPixel/SphearAdvencher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caxaro4ekPixel&repo=SphearAdvencher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
